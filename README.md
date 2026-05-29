@@ -42,7 +42,7 @@ netflix_data_analysis_project/
 
 ![chart1](chart1.png)
 
-![chart2](charts2.png)
+![chart2](chart2.png)
 
 ## Dataset
 Download the dataset from Kaggle:
