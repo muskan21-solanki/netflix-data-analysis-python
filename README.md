@@ -35,6 +35,15 @@ netflix_data_analysis_project/
 ├── requirements.txt
 └── README.md
 
+## Screenshots
+![terminal success](terminal success.png)
+
+![code](code.png)
+
+![genrated charts](generated charts.png)
+
+![genrated charts2](generated charts2.png)
+
 ## Dataset
 Download the dataset from Kaggle:
 https://www.kaggle.com/datasets/shivamb/netflix-shows
