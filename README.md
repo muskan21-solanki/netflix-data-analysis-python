@@ -36,13 +36,13 @@ netflix_data_analysis_project/
 └── README.md
 
 ## Screenshots
-![terminal success](terminal success.png)
+![terminalsuccess](terminalsuccess.png)
 
 ![code](code.png)
 
-![genrated charts](generated charts.png)
+![chart1](chart1.png)
 
-![genrated charts2](generated charts2.png)
+![chart2](charts2.png)
 
 ## Dataset
 Download the dataset from Kaggle:
